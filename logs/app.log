@@ -1,0 +1,4 @@
+20:52:32.536 INFO  [File:StartupInfoLogger.java] [Func:logStarting] [Line:51] [Message:Starting TemplateProjectApplication using Java 17.0.1 with PID 11795 (/home/sihun/dev/template-project/build/classes/java/main started by sihun in /home/sihun/dev/template-project)] 
+20:52:32.537 INFO  [File:SpringApplication.java] [Func:logStartupProfileInfo] [Line:632] [Message:No active profile set, falling back to 1 default profile: "dev"] 
+20:52:33.677 INFO  [File:StartupInfoLogger.java] [Func:logStarted] [Line:57] [Message:Started TemplateProjectApplication in 1.437 seconds (process running for 1.613)] 
+20:52:43.516 INFO  [File:TestLogService.java] [Func:logging] [Line:13] [Message:info log] 
